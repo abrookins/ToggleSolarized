@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Toggle Solarized: Toggle between light and dark Solarized themes",
+        "command": "toggle_solarized"
+    }
+]
